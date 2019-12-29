@@ -1,0 +1,47 @@
+{
+   "checksum": "389ae9697f92d508c39b0b3da295f668",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13221960662936257",
+            "guid": "f615f33f-45e2-4ef4-b41a-2f81ee2bb311",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13221960662937178",
+            "guid": "221d1ecf-f4fc-44ea-870c-25c62bc347ca",
+            "id": "7",
+            "name": "マップ",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         } ],
+         "date_added": "13221960656681409",
+         "date_modified": "13221960662937178",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "ブックマーク バー",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13221960656681416",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "その他のブックマーク",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13221960656681418",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "モバイルのブックマーク",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
